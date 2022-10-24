@@ -8,10 +8,10 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 
 - [x]  README’yi görüntüleme
 - [x]  Bir GitHub hesabı oluşturma
-- [x]  Komut satırı arayüzünü açma
-- [x]  Kullanıcı Adı and E-mail oluşturma
+- [ ]  Komut satırı arayüzünü açma
+- [ ]  Kullanıcı Adı and E-mail oluşturma
 - [x]  Kimlik doğrulamasının yapılması
-- [x]  Repository’nin forklanması 
+- [ ]  Repository’nin forklanması 
 - [x]  Repository’nin clone’lanması
 - [x]  Repository’de değişiklik yapma
 - [x]  Değişiklikleri Local olarak commit etmek
