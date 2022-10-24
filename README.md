@@ -6,15 +6,15 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 
 ## Adımlar
 
-- [x]  README’yi görüntüleme
+- [ ]  README’yi görüntüleme
 - [x]  Bir GitHub hesabı oluşturma
 - [x]  Komut satırı arayüzünü açma
 - [x]  Kullanıcı Adı and E-mail oluşturma
-- [x]  Kimlik doğrulamasının yapılması
+- [ ]  Kimlik doğrulamasının yapılması
 - [x]  Repository’nin forklanması 
-- [x]  Repository’nin clone’lanması
+- [ ]  Repository’nin clone’lanması
 - [ ]  Repository’de değişiklik yapma
-- [ ]  Değişiklikleri Local olarak commit etmek
+- [x]  Değişiklikleri Local olarak commit etmek
 - [ ]  Değişiklikleri GitHub'a Taşıma
 - [ ]  Standart İş Akışı
 
